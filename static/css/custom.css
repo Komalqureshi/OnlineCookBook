@@ -1,0 +1,110 @@
+.recipe {
+    background: #f5f5f5;
+    padding: 9px 10px;
+    border-radius: 5px;
+    border: 1px solid orange;
+    margin-bottom: 40px;
+    animation: ease box-shadow 1s;
+}
+
+.recipe:hover {
+    box-shadow: 0 11px 33px -2px #00000040;
+}
+
+
+#submit_recipe, #submit_recipe a {
+    color: #fff;
+}
+
+.actions {
+    padding-top: 15px;
+}
+
+.actions a {
+    display: block;
+    margin-bottom: 10px;
+}
+
+i {
+    color: #337ab7;
+}
+
+.recipe {
+    color: #333;
+}
+
+.recipe .btn {
+    color: #fff;
+}
+
+#home_banner {
+    margin-bottom: 20px;
+}
+
+.navbar-default {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: orange;
+}
+
+.navbar-default .navbar-brand {
+    color: orange;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 34px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+.panel-default > .panel-heading {
+    color: #000;
+    background-color: #ffa500;
+    border-color: #ffa500;
+}
+
+i {
+    color: orange;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #ffa500;
+    border-color: #ffa500;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #ddd;
+    border-color: #ddd;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+}
+
+footer {
+    padding: 20px 0;
+}
